@@ -1,3 +1,3 @@
 # lagcraft
 Version control for a dumb Minecraft modpack
-Visit http://qanazo.ga/lagcraft for more info
+Visit http://qanazoga.com/lagcraft for more info
