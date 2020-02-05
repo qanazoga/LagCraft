@@ -74,7 +74,7 @@
             "action" : 
             {
                 "type" : "openLink",
-				"link" : "https://qanazoga.com/lagcraft/"
+				"link" : "https://qanazoga.com/lagcraft-classic/"
             }
         },
         "support":
@@ -232,7 +232,7 @@
             "alignment" : "bottom_left"
 		},
 		"modpack":{
-			"text" : "Lagcraft Classic 1.2",
+			"text" : "Lagcraft Classic 1.3",
             "posX" : 3,
             "posY" : -25,
 			"fontSize" : .6,
