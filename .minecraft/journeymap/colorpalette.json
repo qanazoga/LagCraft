@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.4p1 Unlimited for 1.7.10 on Thu Oct 17 03:21:28 MDT 2019",
+  "generated": "Generated using JourneyMap 5.1.4p1 Unlimited for 1.7.10 on Fri Feb 07 22:07:08 MST 2020",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -11,7 +11,7 @@ var colorpalette={
   ],
   "permanent": false,
   "resourcePacks": "Default",
-  "modNames": "AE2 Stuff:0.5.1.9, Advanced Genetics:1.5.9, Advanced Solar Panels:1.7.10-3.5.1, AgriCraft:1.7.10-1.5.0, Another One Bites The Dust:2.9.2, AppleCore:3.1.1, Applied Energistics 2 Core:rv3-beta-6, Applied Energistics 2:rv3-beta-6, Arcane Engineering:0.2.7, Automagy:0.28.2, Avaritia:1.11, BC Builders:7.1.16, BC Energy:7.1.16, BC Factory:7.1.16, BC Robotics:7.1.16, BC Silicon:7.1.16, BC Transport:7.1.16, BD Lib:1.9.4.109, Baubles Stuff:2.1.2, Baubles:1.0.1.10, BiblioCraft:1.11.5, BiblioWoods Biomes O\u0027Plenty Edition:1.9, BiblioWoods Forestry Edition:1.7, BiblioWoods Natura Edition:1.5, Big Reactors:0.4.3A, Binnie Core:2.0-pre14, Binnie Patcher:1.8.2, Blood Magic: Alchemical Wizardry:v1.3.3, Botania:r1.8-249, Botany:2.0-pre14, Brandon\u0027s Core:1.0.0.12, BuildCraft Compat:7.1.5, BuildCraft:7.1.16, Carpenter\u0027s Blocks:3.3.8, Chisel:2.9.5.11, Choco Patcher:1.1, CoFH ASM:000, CoFH Core:1.7.10R3.1.3, CodeChicken Core:1.0.7.47, ComputerCraft:1.75, Cooking for Blockheads:1.0.140, Custom Main Menu:1.9.2, Decocraft:2.3.3, DeepResonance:1.1.4, Dense Ores:1.0, Ding:MC1.7.10, Draconic Evolution:1.0.2h, DummyCore:1.13, EXCore:1.5.3, ElecCore:1.4.294, Electro-Magic Tools:1.2.6.2, Ender IO:1.7.10-2.3.0.428_beta, Ender Zoo:1.7.10-1.0.15.32, EnderCore:1.7.10-0.2.0.36_beta, EnderStorage:1.4.7.37, EnderTech:1.7.10-0.3.2.405, Ex Astris:MC1.7.10-1.16-36, Ex Compressum:1.1.149, Ex Nihilo:1.38-53, Extra Bees:2.0-pre14, Extra Cells 2:2.3.14, Extra Trees:2.0-pre14, Extra Utilities:1.2.12, ExtraTiC:1.4.6, FTB Tweaks:1.0.2, FTBLib:1.0.18.2, FTBUtilities:1.0.18.2, Fast Leaf Decay:1.4, FastCraft:1.25, Fog Nerf:1.7.10-0.3, Forbidden Magic:1.7.10-0.575, Forestry for Minecraft:4.2.15.63, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, ForgeRelocation:0.0.1.4, Funky Locomotion:1.0, Gadomancy:1.0.7.3, Galacticraft Core:3.0.12, Galacticraft Planets:3.0.12, GenDustry:1.6.3.132, Genetics:2.0-pre14, Graviation Suite:1.7.10-2.0.3, Grimoire of Gaia 3:1.0.0, Guide-API:1.7.10-1.0.1-20, Headcrumbs:1.7.4, INpureCore:1.7.10R1.0.0B9, Iguana Tinker Tweaks:1.7.10-2.1.6.163, Immersive Engineering:0.7.7, Immersive Integration:0.6.8, IndustrialCraft 2:2.2.823-experimental, Inventory Tweaks:1.59-dev-152-cf6e263, Iron Chest:6.0.62.742, JABBA:1.2.2, JourneyMap:5.1.4p1, Logistics Pipes:0.9.3.126, LunatriusCore:1.1.2.21, MCFrames:1.0, MFR Compat ProjectRed:1.7.10R2.8.1, MFR Compat: Applied Energistics:1.7.10R2.8.1, MFR Compat: BuildCraft:1.7.10R2.8.1, MFR Compat: Forestry:1.7.10R2.8.1, MFR Compat: ForgeMicroblock:1.7.10R2.8.1, MFR Compat: IC2:1.7.10R2.8.1, MFR Compat: MagicalCrops:1.2.4, MFR Compat: Railcraft:1.7.10R2.8.1, MFR Compat: Thaumcraft:1.7.10R2.8.1, MFR Compat: Thermal Expansion:1.7.10R2.8.1, MFR Compat: Tinkers\u0027 Construct:1.7.10R2.8.1, MFR Compat: Vanilla:1.7.10R2.8.1, MachineMuse\u0027s Modular Powersuits:@VERSION@, Magic Bees:2.4.4, Magic Cookies, something yummy:1.0.7.1, Magical Crops:4.0.0_PUBLIC_BETA_3, Malisis\u0027 Doors:1.7.10-1.13.2, MalisisCore:1.7.10-0.14.3, Mantle:1.7.10-0.3.2.jenkins191, Mekanism:9.1.1, MekanismGenerators:9.1.1, MekanismTools:9.1.1, Micdoodle8 Core:, Mimicry:1.7.x_1492_1.0.10, MineFactory Reloaded:1.7.10R2.8.1, MineTweaker 3:3.0.10, Minechem:5.0.5.406, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.345, Mod Tweaker 2:0.9.5, More Planets:1.4.4, Morpheus:1.7.10-1.6.21, MrTJPCore:1.1.0.33, NEI Addons: Applied Energistics 2:1.12.14.40, NEI Addons: Botany:1.12.14.40, NEI Addons: Crafting Tables:1.12.14.40, NEI Addons: Developer Tools:1.12.14.40, NEI Addons: Ex Nihilo:1.12.14.40, NEI Addons: Forestry:1.12.14.40, NEI Addons:1.12.14.40, NEI Integration:1.1.2, Natura:2.2.0, NoMoreRecipeConflict:1.7.10, NodalMechanics:1.7.10R1.0, Not Enough Items:1.0.5.120, Not Enough Resources:0.1.0.ManuallyBuilt, NotEnoughIDs:1.4.3.4, NotEnoughThaumcraftTabs:1.0.2, Nuclear Control 2:2.4.1a, Numina:1.7.10, Open Modular Turrets:2.2.10-237, OpenBlocks:1.5.1, OpenMods:0.9.1, OpenModsCore:0.9.1, OpenPeripheralAddons:0.5.1, OpenPeripheralCore:1.3, OpenPeripheralIntegration:0.5, PTRModelLib:1.0.0, Pam\u0027s HarvestCraft:1.7.10j, Particle Library:1, Player API:1.4, PneumaticCraft:1.12.7-150, PortalGun:4.0.0-beta-6, Practical Logistics:0.2.4, ProjectRed Compatibility:4.7.0pre12.95, ProjectRed Core:4.7.0pre12.95, ProjectRed Expansion:4.7.0pre12.95, ProjectRed Exploration:4.7.0pre12.95, ProjectRed Illumination:4.7.0pre12.95, ProjectRed Integration:4.7.0pre12.95, ProjectRed Transmission:4.7.0pre12.95, ProjectRed Transportation:4.7.0pre12.95, RFTools:4.23, Railcraft:9.12.2.0, Realistic World Gen Alpha:Alpha 1.3.2, Redstone Arsenal:1.7.10R1.1.2, RelocationFMP:0.0.1.2, Resource Loader:1.3, Runic Dungeons:1.1.7b, Simply Jetpacks:1.5.3, Snad:1.7.10-1.6.01.31a, Solar Expansion:1.6a, SonarCore:1.1.3, Spring Boards:0.1, Stackie:1.6.0.36, Steve\u0027s Addons:0.10.16, Steve\u0027s Carts 2:2.0.0.b18, Steve\u0027s Factory Manager:A93, Steve\u0027s Workshop:0.5.1, Storage Drawers: Forestry Pack:1.7.10-1.1.2, Storage Drawers: Misc Pack:1.7.10-1.1.2, Storage Drawers: Natura Pack:1.7.10-1.1.1, Storage Drawers:1.7.10-1.10.1, Symcalc:0.14, TC Inventory Scanning:1.0.11, TC Node Tracker:1.1.2, TCBotaniaExoflame:1.0, Tainted Magic:r7.82, Technomancy Core:0.12.5, Technomancy:0.12.5, Thaumaturgical Knowledge:0.1.5.1, Thaumcraft NEI Plugin:@VERSION@, Thaumcraft:4.2.3.5, Thaumic Additions:0.41, Thaumic Bases:1.3.1710.2, Thaumic Energistics Core:1.0.0.1, Thaumic Energistics:1.1.3.0, Thaumic Exploration:0.6.0, Thaumic Horizons:1.1.9, Thaumic Infusion:4.32, Thaumic Tinkerer Core:0.1, Thaumic Tinkerer:unspecified, Thermal Dynamics:1.7.10R1.2.0, Thermal Expansion:1.7.10R4.1.3, Thermal Foundation:1.7.10R1.2.5, TiC Tooltips:1.2.5, Tinkers\u0027 Construct:1.7.10-1.8.8.build988, Tinkers\u0027 Mechworks:0.2.15.106, Translocator:1.1.2.16, Traveller\u0027s Gear:1.16.6, WR-CBE Addons:1.4.1.9, WR-CBE Core:1.4.1.9, WR-CBE Logic:1.4.1.9, Waila Harvestability:1.1.6, Waila:1.5.10, What Are We Looking At:1.3.1, Witchery:0.24.1, debug:1.0, iChunUtil:4.2.2",
+  "modNames": "AE2 Stuff:0.5.1.9, Advanced Genetics:1.5.9, Advanced Solar Panels:1.7.10-3.5.1, AgriCraft:1.7.10-1.5.0, Another One Bites The Dust:2.9.2, AppleCore:3.1.1, Applied Energistics 2 Core:rv3-beta-6, Applied Energistics 2:rv3-beta-6, Arcane Engineering:0.2.7, Automagy:0.28.2, Avaritia:1.11, BC Builders:7.1.16, BC Energy:7.1.16, BC Factory:7.1.16, BC Robotics:7.1.16, BC Silicon:7.1.16, BC Transport:7.1.16, BD Lib:1.9.4.109, Baubles Stuff:2.1.2, Baubles:1.0.1.10, BiblioCraft:1.11.5, BiblioWoods Biomes O\u0027Plenty Edition:1.9, BiblioWoods Forestry Edition:1.7, BiblioWoods Natura Edition:1.5, Big Reactors:0.4.3A, Binnie Core:2.0-pre14, Binnie Patcher:1.8.2, Blood Magic: Alchemical Wizardry:v1.3.3, Botania:r1.8-249, Botany:2.0-pre14, Brandon\u0027s Core:1.0.0.12, BuildCraft Compat:7.1.5, BuildCraft:7.1.16, Carpenter\u0027s Blocks:3.3.8, Chisel:2.9.5.11, Choco Patcher:1.1, CoFH ASM:000, CoFH Core:1.7.10R3.1.3, CodeChicken Core:1.0.7.47, ComputerCraft:1.75, Cooking for Blockheads:1.0.140, Custom Main Menu:1.9.2, Decocraft:2.3.3, DeepResonance:1.1.4, Dense Ores:1.0, Ding:MC1.7.10, Draconic Evolution:1.0.2h, DummyCore:1.13, EXCore:1.5.3, ElecCore:1.4.294, Electro-Magic Tools:1.2.6.2, Enchiridion:1.1, Ender IO:1.7.10-2.3.0.428_beta, Ender Zoo:1.7.10-1.0.15.32, EnderCore:1.7.10-0.2.0.36_beta, EnderStorage:1.4.7.37, EnderTech:1.7.10-0.3.2.405, Ex Astris:MC1.7.10-1.16-36, Ex Compressum:1.1.149, Ex Nihilo:1.38-53, Extra Bees:2.0-pre14, Extra Cells 2:2.3.14, Extra Trees:2.0-pre14, Extra Utilities:1.2.12, ExtraTiC:1.4.6, FTB Tweaks:1.0.2, FTBLib:1.0.18.2, FTBUtilities:1.0.18.2, Fast Leaf Decay:1.4, FastCraft:1.25, Fog Nerf:1.7.10-0.3, Forbidden Magic:1.7.10-0.575, Forestry for Minecraft:4.2.15.63, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, ForgeRelocation:0.0.1.4, Funky Locomotion:1.0, Gadomancy:1.0.7.3, Galacticraft Core:3.0.12, Galacticraft Planets:3.0.12, GenDustry:1.6.3.132, Genetics:2.0-pre14, Graviation Suite:1.7.10-2.0.3, Grimoire of Gaia 3:1.0.0, Guide-API:1.7.10-1.0.1-20, Headcrumbs:1.7.4, INpureCore:1.7.10R1.0.0B9, Iguana Tinker Tweaks:1.7.10-2.1.6.163, Immersive Engineering:0.7.7, Immersive Integration:0.6.8, IndustrialCraft 2:2.2.823-experimental, Inventory Tweaks:1.59-dev-152-cf6e263, Iron Chest:6.0.62.742, JABBA:1.2.2, JourneyMap:5.1.4p1, Logistics Pipes:0.9.3.126, LunatriusCore:1.1.2.21, MCFrames:1.0, MFR Compat ProjectRed:1.7.10R2.8.1, MFR Compat: Applied Energistics:1.7.10R2.8.1, MFR Compat: BuildCraft:1.7.10R2.8.1, MFR Compat: Forestry:1.7.10R2.8.1, MFR Compat: ForgeMicroblock:1.7.10R2.8.1, MFR Compat: IC2:1.7.10R2.8.1, MFR Compat: MagicalCrops:1.2.4, MFR Compat: Railcraft:1.7.10R2.8.1, MFR Compat: Thaumcraft:1.7.10R2.8.1, MFR Compat: Thermal Expansion:1.7.10R2.8.1, MFR Compat: Tinkers\u0027 Construct:1.7.10R2.8.1, MFR Compat: Vanilla:1.7.10R2.8.1, MachineMuse\u0027s Modular Powersuits:@VERSION@, Magic Bees:2.4.4, Magic Cookies, something yummy:1.0.7.1, Magical Crops:4.0.0_PUBLIC_BETA_3, Malisis\u0027 Doors:1.7.10-1.13.2, MalisisCore:1.7.10-0.14.3, Mantle:1.7.10-0.3.2.jenkins191, Mekanism:9.1.1, MekanismGenerators:9.1.1, MekanismTools:9.1.1, Micdoodle8 Core:, Mimicry:1.7.x_1492_1.0.10, MineFactory Reloaded:1.7.10R2.8.1, MineTweaker 3:3.0.10, Minechem:5.0.5.406, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.345, Mod Tweaker 2:0.9.5, More Planets:1.4.4, Morpheus:1.7.10-1.6.21, MrTJPCore:1.1.0.33, NEI Addons: Applied Energistics 2:1.12.14.40, NEI Addons: Botany:1.12.14.40, NEI Addons: Crafting Tables:1.12.14.40, NEI Addons: Developer Tools:1.12.14.40, NEI Addons: Ex Nihilo:1.12.14.40, NEI Addons: Forestry:1.12.14.40, NEI Addons:1.12.14.40, NEI Integration:1.1.2, Natura:2.2.0, NoMoreRecipeConflict:1.7.10, NodalMechanics:1.7.10R1.0, Not Enough Items:1.0.5.120, Not Enough Resources:0.1.0.ManuallyBuilt, NotEnoughIDs:1.4.3.4, NotEnoughThaumcraftTabs:1.0.2, Nuclear Control 2:2.4.1a, Numina:1.7.10, Open Modular Turrets:2.2.10-237, OpenBlocks:1.5.1, OpenMods:0.9.1, OpenModsCore:0.9.1, OpenPeripheralAddons:0.5.1, OpenPeripheralCore:1.3, OpenPeripheralIntegration:0.5, PTRModelLib:1.0.0, Pam\u0027s HarvestCraft:1.7.10j, Particle Library:1, Player API:1.4, PneumaticCraft:1.12.7-150, PortalGun:4.0.0-beta-6, Practical Logistics:0.2.4, ProjectE:1.7.10-PE1.10.1, ProjectRed Compatibility:4.7.0pre12.95, ProjectRed Core:4.7.0pre12.95, ProjectRed Expansion:4.7.0pre12.95, ProjectRed Exploration:4.7.0pre12.95, ProjectRed Illumination:4.7.0pre12.95, ProjectRed Integration:4.7.0pre12.95, ProjectRed Transmission:4.7.0pre12.95, ProjectRed Transportation:4.7.0pre12.95, RFTools:4.23, Railcraft:9.12.2.0, Realistic World Gen Alpha:Alpha 1.3.2, Redstone Arsenal:1.7.10R1.1.2, RelocationFMP:0.0.1.2, Resource Loader:1.3, Runic Dungeons:1.1.7b, Simply Jetpacks:1.5.3, Snad:1.7.10-1.6.01.31a, Solar Expansion:1.6a, SonarCore:1.1.3, Spring Boards:0.1, Stackie:1.6.0.36, Steve\u0027s Addons:0.10.16, Steve\u0027s Carts 2:2.0.0.b18, Steve\u0027s Factory Manager:A93, Steve\u0027s Workshop:0.5.1, Storage Drawers: Forestry Pack:1.7.10-1.1.2, Storage Drawers: Misc Pack:1.7.10-1.1.2, Storage Drawers: Natura Pack:1.7.10-1.1.1, Storage Drawers:1.7.10-1.10.1, Symcalc:0.14, TC Inventory Scanning:1.0.11, TC Node Tracker:1.1.2, TCBotaniaExoflame:1.0, Tainted Magic:r7.82, Technomancy Core:0.12.5, Technomancy:0.12.5, Thaumaturgical Knowledge:0.1.5.1, Thaumcraft NEI Plugin:@VERSION@, Thaumcraft:4.2.3.5, Thaumic Additions:0.41, Thaumic Bases:1.3.1710.2, Thaumic Energistics Core:1.0.0.1, Thaumic Energistics:1.1.3.0, Thaumic Equivalence:1.7.10-1.0.4, Thaumic Exploration:0.6.0, Thaumic Horizons:1.1.9, Thaumic Infusion:4.32, Thaumic Tinkerer Core:0.1, Thaumic Tinkerer:unspecified, Thermal Dynamics:1.7.10R1.2.0, Thermal Expansion:1.7.10R4.1.3, Thermal Foundation:1.7.10R1.2.5, TiC Tooltips:1.2.5, Tinkers\u0027 Construct:1.7.10-1.8.8.build988, Tinkers\u0027 Mechworks:0.2.15.106, Translocator:1.1.2.16, Traveller\u0027s Gear:1.16.6, WR-CBE Addons:1.4.1.9, WR-CBE Core:1.4.1.9, WR-CBE Logic:1.4.1.9, Waila Harvestability:1.1.6, Waila:1.5.10, What Are We Looking At:1.3.1, Witchery:0.24.1, debug:1.0, iChunUtil:4.2.2",
   "basicColors": [
     {
       "name": " Wood Slab",
@@ -938,6 +938,12 @@ var colorpalette={
       "color": "#78976d"
     },
     {
+      "name": "Aeternalis Fuel Block",
+      "uid": "ProjectE:fuel_block",
+      "meta": 2,
+      "color": "#999991"
+    },
+    {
       "name": "Air Cannon",
       "uid": "PneumaticCraft:airCannon",
       "meta": 0,
@@ -1060,6 +1066,18 @@ var colorpalette={
       "uid": "Thaumcraft:blockTube",
       "meta": 2,
       "color": "#323232"
+    },
+    {
+      "name": "Alchemical Chest",
+      "uid": "ProjectE:alchemical_chest",
+      "meta": 0,
+      "color": "#323536"
+    },
+    {
+      "name": "Alchemical Coal Block",
+      "uid": "ProjectE:fuel_block",
+      "meta": 0,
+      "color": "#7e0008"
     },
     {
       "name": "Alchemical Construct",
@@ -2238,6 +2256,24 @@ var colorpalette={
       "uid": "chisel:antiBlock",
       "meta": 15,
       "color": "#e0e0e0"
+    },
+    {
+      "name": "Anti-Matter Relay MK1",
+      "uid": "ProjectE:relay_mk1",
+      "meta": 0,
+      "color": "#666363"
+    },
+    {
+      "name": "Anti-Matter Relay MK2",
+      "uid": "ProjectE:relay_mk2",
+      "meta": 0,
+      "color": "#2e2e2e"
+    },
+    {
+      "name": "Anti-Matter Relay MK3",
+      "uid": "ProjectE:relay_mk3",
+      "meta": 0,
+      "color": "#452222"
     },
     {
       "name": "Antimony",
@@ -3980,7 +4016,7 @@ var colorpalette={
       "name": "Arcane Stone Block",
       "uid": "chisel:arcane",
       "meta": 3,
-      "color": "#657070"
+      "color": "#646f70"
     },
     {
       "name": "Arcane Stone Block",
@@ -7934,7 +7970,7 @@ var colorpalette={
       "name": "Border Stone",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 4,
-      "color": "#493b3b"
+      "color": "#3a3434"
     },
     {
       "name": "Border Stone (Alternate)",
@@ -8395,7 +8431,7 @@ var colorpalette={
       "name": "Burnt Quartz",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 2,
-      "color": "#403636"
+      "color": "#423737"
     },
     {
       "name": "Butene",
@@ -8894,13 +8930,13 @@ var colorpalette={
       "name": "Carved \u0027Eminence\u0027 Stone",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 14,
-      "color": "#423535"
+      "color": "#423434"
     },
     {
       "name": "Carved Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 3,
-      "color": "#403636",
+      "color": "#423434",
       "alpha": 0.4
     },
     {
@@ -9063,7 +9099,7 @@ var colorpalette={
       "name": "Cell Workbench",
       "uid": "appliedenergistics2:tile.BlockCellWorkbench",
       "meta": 0,
-      "color": "#453837"
+      "color": "#483837"
     },
     {
       "name": "Cellular Block",
@@ -9099,7 +9135,7 @@ var colorpalette={
       "name": "Certus Quartz Block",
       "uid": "appliedenergistics2:tile.BlockQuartz",
       "meta": 0,
-      "color": "#3b3737"
+      "color": "#3a3838"
     },
     {
       "name": "Certus Quartz Crop",
@@ -9141,19 +9177,19 @@ var colorpalette={
       "name": "Certus Quartz Slabs",
       "uid": "appliedenergistics2:tile.QuartzSlabBlock",
       "meta": 0,
-      "color": "#3b3737"
+      "color": "#3a3838"
     },
     {
       "name": "Certus Quartz Slabs",
       "uid": "appliedenergistics2:tile.QuartzSlabBlock.double",
       "meta": 0,
-      "color": "#3b3737"
+      "color": "#3a3838"
     },
     {
       "name": "Certus Quartz Stairs",
       "uid": "appliedenergistics2:tile.QuartzStairBlock",
       "meta": 0,
-      "color": "#3b3737"
+      "color": "#3a3838"
     },
     {
       "name": "Certus Quartz Tank",
@@ -9238,7 +9274,7 @@ var colorpalette={
       "name": "Charged Certus Quartz Ore",
       "uid": "appliedenergistics2:tile.OreQuartzCharged",
       "meta": 0,
-      "color": "#443b3b"
+      "color": "#443a3a"
     },
     {
       "name": "Charged Draconium Block",
@@ -9250,7 +9286,7 @@ var colorpalette={
       "name": "Charged Quartz Fixture",
       "uid": "appliedenergistics2:tile.BlockQuartzTorch",
       "meta": 0,
-      "color": "#3e3b3b"
+      "color": "#403938"
     },
     {
       "name": "Chargepad",
@@ -9262,7 +9298,7 @@ var colorpalette={
       "name": "Charger",
       "uid": "appliedenergistics2:tile.BlockCharger",
       "meta": 0,
-      "color": "#413837"
+      "color": "#403938"
     },
     {
       "name": "Charging Bench",
@@ -9896,25 +9932,25 @@ var colorpalette={
       "name": "Chiseled Certus Quartz Block",
       "uid": "appliedenergistics2:tile.BlockQuartzChiseled",
       "meta": 0,
-      "color": "#423837"
+      "color": "#413535"
     },
     {
       "name": "Chiseled Certus Quartz Slabs",
       "uid": "appliedenergistics2:tile.ChiseledQuartzSlabBlock",
       "meta": 0,
-      "color": "#423837"
+      "color": "#413535"
     },
     {
       "name": "Chiseled Certus Quartz Slabs",
       "uid": "appliedenergistics2:tile.ChiseledQuartzSlabBlock.double",
       "meta": 0,
-      "color": "#423837"
+      "color": "#413535"
     },
     {
       "name": "Chiseled Certus Quartz Stairs",
       "uid": "appliedenergistics2:tile.ChiseledQuartzStairBlock",
       "meta": 0,
-      "color": "#423837"
+      "color": "#413535"
     },
     {
       "name": "Chiseled Cheese Sandstone",
@@ -13919,7 +13955,7 @@ var colorpalette={
       "name": "Crafting Monitor",
       "uid": "appliedenergistics2:tile.BlockCraftingMonitor",
       "meta": 0,
-      "color": "#433433"
+      "color": "#443535"
     },
     {
       "name": "Crafting Station",
@@ -14021,7 +14057,7 @@ var colorpalette={
       "name": "Crafting Unit",
       "uid": "appliedenergistics2:tile.BlockCraftingUnit",
       "meta": 0,
-      "color": "#433433"
+      "color": "#443535"
     },
     {
       "name": "Crafty Crate",
@@ -14401,7 +14437,7 @@ var colorpalette={
       "name": "Crystal Growth Accelerator",
       "uid": "appliedenergistics2:tile.BlockQuartzGrowthAccelerator",
       "meta": 0,
-      "color": "#443535"
+      "color": "#463636"
     },
     {
       "name": "Crystal Growth Chamber",
@@ -15030,7 +15066,7 @@ var colorpalette={
       "name": "Dark Ethereal Glass",
       "uid": "ExtraUtilities:etherealglass",
       "meta": 2,
-      "color": "#443535",
+      "color": "#453534",
       "alpha": 0.4
     },
     {
@@ -15051,7 +15087,7 @@ var colorpalette={
       "name": "Dark Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 10,
-      "color": "#423838",
+      "color": "#413535",
       "alpha": 0.4
     },
     {
@@ -15071,6 +15107,30 @@ var colorpalette={
       "uid": "Railcraft:ore",
       "meta": 4,
       "color": "#2c2c2c"
+    },
+    {
+      "name": "Dark Matter Block",
+      "uid": "ProjectE:matter_block",
+      "meta": 0,
+      "color": "#101010"
+    },
+    {
+      "name": "Dark Matter Furnace",
+      "uid": "ProjectE:dm_furnace",
+      "meta": 0,
+      "color": "#101010"
+    },
+    {
+      "name": "Dark Matter Furnace",
+      "uid": "ProjectE:dm_furnace_lit",
+      "meta": 0,
+      "color": "#101010"
+    },
+    {
+      "name": "Dark Matter Pedestal",
+      "uid": "ProjectE:dm_pedestal",
+      "meta": 0,
+      "color": "#101010"
     },
     {
       "name": "Dark Oak Barrel",
@@ -17699,7 +17759,7 @@ var colorpalette={
       "name": "Edged Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 1,
-      "color": "#423837",
+      "color": "#413535",
       "alpha": 0.4
     },
     {
@@ -18462,7 +18522,7 @@ var colorpalette={
       "name": "Ender Tank Glass",
       "uid": "EnderTech:endertech.multiblockGlass",
       "meta": 0,
-      "color": "#3b3737",
+      "color": "#3d3636",
       "alpha": 0.4
     },
     {
@@ -18505,7 +18565,7 @@ var colorpalette={
       "name": "Ender-Sand Alloy",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 13,
-      "color": "#413635"
+      "color": "#423635"
     },
     {
       "name": "Ender-Thermic Pump",
@@ -18517,7 +18577,7 @@ var colorpalette={
       "name": "Ender-infused Obsidian",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 1,
-      "color": "#443a3a"
+      "color": "#493b3b"
     },
     {
       "name": "Endergenic Generator",
@@ -18638,7 +18698,7 @@ var colorpalette={
       "name": "Energy Acceptor",
       "uid": "appliedenergistics2:tile.BlockEnergyAcceptor",
       "meta": 0,
-      "color": "#423434"
+      "color": "#423333"
     },
     {
       "name": "Energy Beam Receiver",
@@ -18665,10 +18725,43 @@ var colorpalette={
       "color": "#6b6c6f"
     },
     {
+      "name": "Energy Collector MK1",
+      "uid": "ProjectE:collector_mk1",
+      "meta": 0,
+      "color": "#c3ab76",
+      "alpha": 0.4
+    },
+    {
+      "name": "Energy Collector MK2",
+      "uid": "ProjectE:collector_mk2",
+      "meta": 0,
+      "color": "#725f3f",
+      "alpha": 0.4
+    },
+    {
+      "name": "Energy Collector MK3",
+      "uid": "ProjectE:collector_mk3",
+      "meta": 0,
+      "color": "#8e4929",
+      "alpha": 0.4
+    },
+    {
+      "name": "Energy Condenser",
+      "uid": "ProjectE:condenser_mk1",
+      "meta": 0,
+      "color": "#1e272e"
+    },
+    {
       "name": "Energy Condenser",
       "uid": "technom:condenserBlock",
       "meta": 0,
       "color": "#686865"
+    },
+    {
+      "name": "Energy Condenser MK2",
+      "uid": "ProjectE:condenser_mk2",
+      "meta": 0,
+      "color": "#1e272e"
     },
     {
       "name": "Energy Core",
@@ -19148,7 +19241,7 @@ var colorpalette={
       "name": "Ethereal Glass (Inverted)",
       "uid": "ExtraUtilities:etherealglass",
       "meta": 3,
-      "color": "#403636",
+      "color": "#433636",
       "alpha": 0.4
     },
     {
@@ -21682,7 +21775,7 @@ var colorpalette={
       "name": "Fluix Block",
       "uid": "appliedenergistics2:tile.BlockFluix",
       "meta": 0,
-      "color": "#3e3b3b"
+      "color": "#413837"
     },
     {
       "name": "Fluix Crop",
@@ -21694,19 +21787,19 @@ var colorpalette={
       "name": "Fluix Slabs",
       "uid": "appliedenergistics2:tile.FluixSlabBlock",
       "meta": 0,
-      "color": "#3e3b3b"
+      "color": "#413837"
     },
     {
       "name": "Fluix Slabs",
       "uid": "appliedenergistics2:tile.FluixSlabBlock.double",
       "meta": 0,
-      "color": "#3e3b3b"
+      "color": "#413837"
     },
     {
       "name": "Fluix Stairs",
       "uid": "appliedenergistics2:tile.FluixStairBlock",
       "meta": 0,
-      "color": "#3e3b3b"
+      "color": "#413837"
     },
     {
       "name": "Fluix Wire Coil",
@@ -22339,7 +22432,7 @@ var colorpalette={
       "name": "Frosted Stone",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 3,
-      "color": "#443d3d"
+      "color": "#443b3b"
     },
     {
       "name": "Frosted White Cake",
@@ -23439,7 +23532,7 @@ var colorpalette={
       "name": "Glass Bricks",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 2,
-      "color": "#3f3a3a",
+      "color": "#3e3b3b",
       "alpha": 0.4
     },
     {
@@ -24358,7 +24451,7 @@ var colorpalette={
       "name": "Gravel Road",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 10,
-      "color": "#3a3434"
+      "color": "#383535"
     },
     {
       "name": "Graveyard Soil",
@@ -25476,7 +25569,7 @@ var colorpalette={
       "name": "Heart Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 8,
-      "color": "#443b3b",
+      "color": "#433d3d",
       "alpha": 0.4
     },
     {
@@ -26763,13 +26856,13 @@ var colorpalette={
       "name": "Imperialistic Block",
       "uid": "chisel:nation",
       "meta": 0,
-      "color": "#515a5b"
+      "color": "#4d5758"
     },
     {
       "name": "Imperialistic Block",
       "uid": "chisel:nation",
       "meta": 1,
-      "color": "#576364"
+      "color": "#536161"
     },
     {
       "name": "Imperialistic Block",
@@ -26952,14 +27045,14 @@ var colorpalette={
       "name": "Ineffable Glass",
       "uid": "ExtraUtilities:etherealglass",
       "meta": 1,
-      "color": "#433535",
+      "color": "#433636",
       "alpha": 0.4
     },
     {
       "name": "Ineffable Glass (Inverted)",
       "uid": "ExtraUtilities:etherealglass",
       "meta": 4,
-      "color": "#474040",
+      "color": "#464141",
       "alpha": 0.4
     },
     {
@@ -27117,7 +27210,7 @@ var colorpalette={
       "name": "Inscriber",
       "uid": "appliedenergistics2:tile.BlockInscriber",
       "meta": 0,
-      "color": "#3f3535"
+      "color": "#423434"
     },
     {
       "name": "Inspiratron",
@@ -27137,6 +27230,12 @@ var colorpalette={
       "uid": "BuildCraft|Silicon:laserTableBlock",
       "meta": 2,
       "color": "#2e292e"
+    },
+    {
+      "name": "Interdiction Torch",
+      "uid": "ProjectE:interdiction_torch",
+      "meta": 0,
+      "color": "#34be7d"
     },
     {
       "name": "Invar Block",
@@ -31710,7 +31809,7 @@ var colorpalette={
       "name": "Light Detecting Fixture",
       "uid": "appliedenergistics2:tile.BlockLightDetector",
       "meta": 0,
-      "color": "#433d3d"
+      "color": "#483e3e"
     },
     {
       "name": "Light Engineering Block",
@@ -33119,13 +33218,13 @@ var colorpalette={
       "name": "ME Chest",
       "uid": "appliedenergistics2:tile.BlockChest",
       "meta": 0,
-      "color": "#423535"
+      "color": "#413535"
     },
     {
       "name": "ME Controller",
       "uid": "appliedenergistics2:tile.BlockController",
       "meta": 0,
-      "color": "#483939"
+      "color": "#453939"
     },
     {
       "name": "ME Dense Transformer",
@@ -33143,7 +33242,7 @@ var colorpalette={
       "name": "ME Drive",
       "uid": "appliedenergistics2:tile.BlockDrive",
       "meta": 0,
-      "color": "#453636"
+      "color": "#463636"
     },
     {
       "name": "ME Fluid Assembler",
@@ -33161,13 +33260,13 @@ var colorpalette={
       "name": "ME IO Port",
       "uid": "appliedenergistics2:tile.BlockIOPort",
       "meta": 0,
-      "color": "#3d3534"
+      "color": "#3b3534"
     },
     {
       "name": "ME Interface",
       "uid": "appliedenergistics2:tile.BlockInterface",
       "meta": 0,
-      "color": "#413837"
+      "color": "#403938"
     },
     {
       "name": "ME Network Monitor",
@@ -33179,19 +33278,19 @@ var colorpalette={
       "name": "ME Quantum Link Chamber",
       "uid": "appliedenergistics2:tile.BlockQuantumLinkChamber",
       "meta": 0,
-      "color": "#443a3a"
+      "color": "#423333"
     },
     {
       "name": "ME Quantum Ring",
       "uid": "appliedenergistics2:tile.BlockQuantumRing",
       "meta": 0,
-      "color": "#423535"
+      "color": "#413535"
     },
     {
       "name": "ME Security Terminal",
       "uid": "appliedenergistics2:tile.BlockSecurity",
       "meta": 0,
-      "color": "#383636"
+      "color": "#3a3635"
     },
     {
       "name": "ME Transformer",
@@ -33209,7 +33308,7 @@ var colorpalette={
       "name": "ME Wireless Access Point",
       "uid": "appliedenergistics2:tile.BlockWireless",
       "meta": 0,
-      "color": "#393737"
+      "color": "#383636"
     },
     {
       "name": "MV Capacitor",
@@ -35062,7 +35161,7 @@ var colorpalette={
       "name": "Matter Condenser",
       "uid": "appliedenergistics2:tile.BlockCondenser",
       "meta": 0,
-      "color": "#423434"
+      "color": "#433535"
     },
     {
       "name": "Matter Receiver",
@@ -36256,6 +36355,12 @@ var colorpalette={
       "color": "#324044"
     },
     {
+      "name": "Mobius Fuel Block",
+      "uid": "ProjectE:fuel_block",
+      "meta": 1,
+      "color": "#7f0c09"
+    },
+    {
       "name": "Mod Sorting Pipe",
       "uid": "ExtraUtilities:pipes",
       "meta": 13,
@@ -36331,7 +36436,7 @@ var colorpalette={
       "name": "Molecular Assembler",
       "uid": "appliedenergistics2:tile.BlockMolecularAssembler",
       "meta": 0,
-      "color": "#413837"
+      "color": "#453939"
     },
     {
       "name": "Molten Adamantine",
@@ -36848,7 +36953,7 @@ var colorpalette={
       "name": "Mossy Temple Block",
       "uid": "chisel:mossy_templeblock",
       "meta": 0,
-      "color": "#4d5859"
+      "color": "#505d5d"
     },
     {
       "name": "Mossy Temple Block",
@@ -37947,6 +38052,18 @@ var colorpalette={
       "uid": "minecraft:noteblock",
       "meta": 0,
       "color": "#644332"
+    },
+    {
+      "name": "Nova Cataclysm",
+      "uid": "ProjectE:nova_cataclysm",
+      "meta": 0,
+      "color": "#4a1e13"
+    },
+    {
+      "name": "Nova Catalyst",
+      "uid": "ProjectE:nova_catalyst",
+      "meta": 0,
+      "color": "#4a1e13"
     },
     {
       "name": "Nuke",
@@ -39584,7 +39701,7 @@ var colorpalette={
       "name": "Obsidian Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 5,
-      "color": "#433d3d",
+      "color": "#423e3e",
       "alpha": 0.4
     },
     {
@@ -42166,7 +42283,7 @@ var colorpalette={
       "name": "Plastic Tank",
       "uid": "MineFactoryReloaded:tank",
       "meta": 0,
-      "color": "#433737"
+      "color": "#423737"
     },
     {
       "name": "Plate Frame",
@@ -44175,7 +44292,7 @@ var colorpalette={
       "color": "#a5a5a5"
     },
     {
-      "name": "QED (Quantum Energy Device)",
+      "name": "QED (Quantum Entity Device)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
@@ -44282,14 +44399,14 @@ var colorpalette={
       "name": "Quartz Glass",
       "uid": "appliedenergistics2:tile.BlockQuartzGlass",
       "meta": 0,
-      "color": "#423535",
+      "color": "#423434",
       "alpha": 0.4
     },
     {
       "name": "Quartz Grindstone",
       "uid": "appliedenergistics2:tile.BlockGrinder",
       "meta": 0,
-      "color": "#443d3d"
+      "color": "#443b3b"
     },
     {
       "name": "Quartz Slab",
@@ -44718,13 +44835,13 @@ var colorpalette={
       "name": "Rebellious Block",
       "uid": "chisel:rebel",
       "meta": 0,
-      "color": "#565d5e"
+      "color": "#575f5f"
     },
     {
       "name": "Rebellious Block",
       "uid": "chisel:rebel",
       "meta": 1,
-      "color": "#4f5a5a"
+      "color": "#515c5c"
     },
     {
       "name": "Rebellious Block",
@@ -44859,6 +44976,24 @@ var colorpalette={
       "uid": "MorePlanet:fronos_sapling",
       "meta": 1,
       "color": "#7f2228"
+    },
+    {
+      "name": "Red Matter Block",
+      "uid": "ProjectE:matter_block",
+      "meta": 1,
+      "color": "#420303"
+    },
+    {
+      "name": "Red Matter Furnace",
+      "uid": "ProjectE:rm_furnace",
+      "meta": 0,
+      "color": "#420303"
+    },
+    {
+      "name": "Red Matter Furnace",
+      "uid": "ProjectE:rm_furnace_lit",
+      "meta": 0,
+      "color": "#420303"
     },
     {
       "name": "Red Metal Platform",
@@ -45792,7 +45927,7 @@ var colorpalette={
       "name": "Reinforced Dark Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 11,
-      "color": "#423737",
+      "color": "#413434",
       "alpha": 0.4
     },
     {
@@ -50285,13 +50420,13 @@ var colorpalette={
       "name": "Spatial IO Port",
       "uid": "appliedenergistics2:tile.BlockSpatialIOPort",
       "meta": 0,
-      "color": "#3b3534"
+      "color": "#383535"
     },
     {
       "name": "Spatial Pylon",
       "uid": "appliedenergistics2:tile.BlockSpatialPylon",
       "meta": 0,
-      "color": "#483837"
+      "color": "#483939"
     },
     {
       "name": "Spawner",
@@ -52402,25 +52537,25 @@ var colorpalette={
       "name": "Stone Bricks",
       "uid": "chisel:stonebricksmooth",
       "meta": 0,
-      "color": "#4c5455"
+      "color": "#4c5656"
     },
     {
       "name": "Stone Bricks",
       "uid": "chisel:stonebricksmooth",
       "meta": 1,
-      "color": "#545c5c"
+      "color": "#545b5b"
     },
     {
       "name": "Stone Bricks",
       "uid": "chisel:stonebricksmooth",
       "meta": 2,
-      "color": "#535e5e"
+      "color": "#535f60"
     },
     {
       "name": "Stone Bricks",
       "uid": "chisel:stonebricksmooth",
       "meta": 3,
-      "color": "#4b5353"
+      "color": "#4d5757"
     },
     {
       "name": "Stone Bricks",
@@ -53046,7 +53181,7 @@ var colorpalette={
       "name": "Swirling Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 6,
-      "color": "#464141",
+      "color": "#443b3b",
       "alpha": 0.4
     },
     {
@@ -53814,7 +53949,7 @@ var colorpalette={
       "name": "Technical Block",
       "uid": "chisel:technical4",
       "meta": 1,
-      "color": "#556364"
+      "color": "#576566"
     },
     {
       "name": "Technical Block",
@@ -54358,7 +54493,7 @@ var colorpalette={
       "name": "Thaumium Block",
       "uid": "chisel:thaumium",
       "meta": 1,
-      "color": "#576566"
+      "color": "#546162"
     },
     {
       "name": "Thaumium Block",
@@ -55083,7 +55218,7 @@ var colorpalette={
       "name": "Tiny TNT",
       "uid": "appliedenergistics2:tile.BlockTinyTNT",
       "meta": 0,
-      "color": "#3e3636"
+      "color": "#3d3636"
     },
     {
       "name": "Titanium",
@@ -55456,6 +55591,12 @@ var colorpalette={
       "uid": "ThermalExpansion:Plate",
       "meta": 3,
       "color": "#4f5667"
+    },
+    {
+      "name": "Transmutation Table",
+      "uid": "ProjectE:transmutation_table",
+      "meta": 0,
+      "color": "#7c6b76"
     },
     {
       "name": "Transparent Technical Block",
@@ -56482,7 +56623,7 @@ var colorpalette={
       "name": "Vibration Chamber",
       "uid": "appliedenergistics2:tile.BlockVibrationChamber",
       "meta": 0,
-      "color": "#423737"
+      "color": "#423434"
     },
     {
       "name": "Village Highlighter",
@@ -58278,7 +58419,7 @@ var colorpalette={
       "name": "Wooden Crank",
       "uid": "appliedenergistics2:tile.BlockCrank",
       "meta": 0,
-      "color": "#413535"
+      "color": "#403535"
     },
     {
       "name": "Wooden Door",
