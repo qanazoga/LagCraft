@@ -1,15 +1,15 @@
+.git
 .minecraft/1213309934
 .minecraft/BotaniaVars.dat
 .minecraft/TCNodeTracker
+.minecraft/TCNodeTracker
+.minecraft/TIWorldData
 .minecraft/TIWorldData
 .minecraft/TI_Transformer.log
 .minecraft/TI_Transformer.log
 .minecraft/backups
 .minecraft/backups
-.minecraft/blueprints
-.minecraft/coremods
 .minecraft/crash-reports
-.minecraft/imcScripts
 .minecraft/journeymap/data
 .minecraft/journeymap/journeymap.log
 .minecraft/logs
@@ -19,6 +19,8 @@
 .minecraft/options.txt
 .minecraft/optionsof.txt
 .minecraft/saves
+.minecraft/saves
+.minecraft/screenshots
 .minecraft/screenshots
 .minecraft/server-resource-packs
 .minecraft/texturepacks
